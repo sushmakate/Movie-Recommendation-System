@@ -14,12 +14,19 @@ A machine learning-based (NLP) movie recommendation system built using Python an
 pip install -r requirements.txt
 ```
 
-## Usage
+## Run the Application
 
 ```bash
-python app.py
+streamlit run app.py
 ```
+## Technologies Used
 
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+- Joblib
+  
 ## Author
 
 Sushma Borade
